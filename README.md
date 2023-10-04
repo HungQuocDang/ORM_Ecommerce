@@ -14,9 +14,9 @@ npm run seed
 
 npm run watch
 
-Open Heroku and apply these lines below:
+Open Insomnia and apply these lines below:
 
-Demo: 
+Demo:  https://drive.google.com/file/d/1zHTy24ASEm6DnwCy1KpT_JaDj3gXhdAy/view
 
 GitHub link:  https://github.com/HungQuocDang/ORM_Ecommerce
 
