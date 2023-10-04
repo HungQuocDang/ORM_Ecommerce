@@ -7,8 +7,11 @@ DROP DATABASE IF EXISTS ecommerce_db;
 CREATE DATABASE ecommerce_db;
 
 then clone the codes, then do  
+
 npm i
+
 npm run seed
+
 npm run watch
 
 Open Heroku and apply these lines below:
