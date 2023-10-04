@@ -19,7 +19,7 @@ GitHub link:  https://github.com/HungQuocDang/ORM_Ecommerce
 
 GitHub Deployed link:  https://hungquocdang.github.io/ORM_Ecommerce/
 
-Heroku:  
+Heroku:  Application error
 
 
 1. get all categories and one category by id:
