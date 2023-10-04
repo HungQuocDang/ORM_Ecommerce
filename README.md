@@ -16,7 +16,7 @@ npm run watch
 
 Open Insomnia and apply these lines below:
 
-Demo:  https://drive.google.com/file/d/1k2vEZJaKq4arQhxqHkcPc_mh786eK7GP/view
+Demo: https://drive.google.com/file/d/1k2vEZJaKq4arQhxqHkcPc_mh786eK7GP/view
 
 GitHub link:  https://github.com/HungQuocDang/ORM_Ecommerce
 
